@@ -1,6 +1,14 @@
-Learn to create Restapi in CodeIgniter
+###################
+Creating Rest api in codeigniter
+###################
 
-Downlod the project and look in database directory
-which gives you database file
+clone project from here
 
-thats it
+and keep it inside www directory
+
+database can be found in database directory of project
+
+which can be used to test project
+
+note:
+change database connection string base on yours
